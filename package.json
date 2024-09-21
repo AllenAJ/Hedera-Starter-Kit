@@ -1,0 +1,16 @@
+{
+  "name": "bitlayer-starter-kit",
+  "version": "1.0.0",
+  "description": "Starter kit for Bitlayer projects",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js", 
+    "start": "node index.js" 
+  },
+  "author": "Allen Joseph",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
